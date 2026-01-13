@@ -1,0 +1,8 @@
+{
+  "name": "SwingCore AI",
+  "description": "A high-performance golf swing analysis app with real-time AI tracking, personalized drills, and detailed progress metrics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
